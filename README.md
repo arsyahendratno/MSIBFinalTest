@@ -1,3 +1,5 @@
 # MSIBFinalTest
--- Arsya Hendratno Putri
--- Universitas Diponegoro
+
+Arsya Hendratno Putri
+
+Universitas Diponegoro
